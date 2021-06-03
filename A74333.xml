@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for setting apart a day of publique thanksgiving, to be kept on Wednesday the 29th of August, 1649. Together with a declaration &amp; a narrative of the grounds and reasons thereof. Die Jovis, 16 Augusti, 1649. Ordered by the Commons assembled in Parliament, that this Act, declaration and narrative be forthwith printed and published. Hen: Scobell, Cleric. Parliament'.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74333</idno><idno type="EEBO-CITATION">99867600</idno>
+  <idno type="VID">119917</idno>
+  <idno type="EEBO-PROQUEST">2240947585</idno>
+  
+            <idno type="STC">Thomason E1060_55</idno>
+            <idno type="STC">ESTC R208672</idno>
+            <idno type="PROQUEST">99867600</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867600e"/>
+            <note>(EEBO-TCP ; phase 2, no. A74333)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119917)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 157:E1060[55])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for setting apart a day of publique thanksgiving, to be kept on Wednesday the 29th of August, 1649. Together with a declaration &amp; a narrative of the grounds and reasons thereof. Die Jovis, 16 Augusti, 1649. Ordered by the Commons assembled in Parliament, that this Act, declaration and narrative be forthwith printed and published. Hen: Scobell, Cleric. Parliament'.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 451-456 [i.e. 8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Edward Husband, printer to the Parliament of England, and are to be sold at his shop in Fleetstreet, at the sign of the Golden-Dragon, near the Inner-Temple,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: 4H⁴. Also issued as part of a through-paged set with a table for the entire set added.</note>
+                  <note>On first page of text: last word of first line of text: "from"; first word of line below initial: "bation"; last word of last full line: "Moun-".</note>
+                  <note>Annotation on Thomason copy: "Aug. 18th".</note>
+                  <note>Ornament on t.p.; initial letter; part of text in black letter.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament. --  Commissioners for Indempnity. --  Early works to 1800.</term>
+               <term type="topical_term">Fasts and feasts --  England --  Law and legislation --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119917:1"/>
+            <p>AN ACT For setting apart a Day of Publique Thanksgiving, To be kept on Wednesday the 29<seg rend="sup">th</seg> of <hi>August,</hi> 1649. Together with a Declaration &amp; a Narrative OF The <hi>Grounds</hi> and <hi>Reasons</hi> thereof.</p>
+            <figure>
+               <figDesc>coat of arms of the Commonwealth of England, 1949</figDesc>
+            </figure>
+            <p>Die Jovis, 16 Augusti, 1649.</p>
+            <p>
+               <hi>ORdered by the Commons assembled in Parliament, That this Act, Declaration and Narrative be forthwith printed and published.</hi>
+            </p>
+            <p>Hen: Scobell, Cleric. Parliament'.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husband,</hi> Printer to the Parliament of <hi>England,</hi> and are to be sold at his Shop in Fleetstreet, at the Sign of the Golden-Dragon, near the Inner-Temple, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119917:2"/>
+            <pb n="451" facs="tcp:119917:2"/>
+            <head>A Declaration &amp; Narrative OF The Grounds and Reasons for setting apart a day OF Publique Thanksgiving To be kept on Wednesday the 29<seg rend="sup">th</seg> of <hi>August,</hi> 1649.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ince the time that the <hi>Lord</hi> brought up his <hi>People</hi> from the <hi>house of Bondage,</hi> by the Outgoings of his Almighty Power, in Signs and Wonders, it can hardly be ob<g ref="char:EOLhyphen"/>served, That ever His Almighty Arm was made more visibly bare in promoting, or that He hath by more evi<g ref="char:EOLhyphen"/>dent demonstrations declared to the world, His appro<g ref="char:EOLhyphen"/>bation and owning of any <hi>Cause,</hi> then he hath done <hi>that,</hi> in which <hi>this Parliament</hi> hath been engaged, for asserting and recovery of their just <hi>Rights</hi> and <hi>Liberties,</hi> with the establishment of <hi>Truth</hi> and <hi>Righteousnes,</hi> and suppression and removal of <hi>Tyranny,</hi> and all the effects of it. And this hath been seen the more evidently and absolutely, since the time that the <hi>Parliament</hi> hath engaged most <hi>expresly</hi> and <hi>impartially</hi> against the greatest and highest Enemies of <hi>Religion</hi> and <hi>Liberty.</hi>
+            </p>
+            <p>With what a <hi>Series</hi> of Mercies, and Miracles of <hi>Victory</hi> and <hi>Deli<g ref="char:EOLhyphen"/>verances</hi> we have been followed from the hand of our Merciful God, since the Battel of <hi>Naseby</hi> till this present, cannot, we hope, be so far out of either the sense or memory of any good <hi>Patriot,</hi> as to need a Recapitulation or Rehearsal. <hi>He</hi> hath made us to <hi>Triumph</hi> over our Enemies, and <hi>wherein they dealt proudly, He was above them;</hi> giving them leave oft-times to <hi>swell</hi> their <hi>Waves,</hi> that <hi>He</hi> might set them li<g ref="char:EOLhyphen"/>mits, and say unto them, <hi>Hitherto shall you come, and no further. He</hi> hath made them <hi>feel</hi> the liftings up of his hand, which they would not <hi>see;</hi> and by His own Almighty <hi>wonder-working Power,</hi> defeated their Strengths, and confounded them in their Confidences: <hi>When</hi> height<g ref="char:EOLhyphen"/>ned to <hi>Assurances</hi> of undoubted <hi>Success,</hi> they have <hi>promised</hi> them<g ref="char:EOLhyphen"/>selves nothing but <hi>Victory, Spoil,</hi> and the full harvest of their Hopes, <hi>then</hi> sudden destruction hath befaln them from the <hi>Lord,</hi> and that so <hi>signally,</hi> and beyond ordinary Providences, as if <hi>the Stars in their courses had fought against them: When</hi> they have gone from Moun<g ref="char:EOLhyphen"/>tain
+<pb n="452" facs="tcp:119917:3"/>to Hill to seek for <hi>Divinations against Israel,</hi> and called in <hi>Moab,</hi> and <hi>Ammon,</hi> and <hi>Amaleck, and the inhabitants of Mount Seir,</hi> against the <hi>worm Jacob, through</hi> the Power, and Presence of our <hi>God,</hi> no <hi>Sor<g ref="char:EOLhyphen"/>cery</hi> hath prevailed, no <hi>weapon found against</hi> us hath <hi>prospered:</hi> The Lord hath declared to the world, That he is a <hi>God of Mountains and of Valleys,</hi> and every where a <hi>strong Rock,</hi> a mighty <hi>Defence</hi> for those that serve and <hi>trust</hi> in <hi>Him.</hi> Against all <hi>persons,</hi> and in all <hi>places,</hi> He hath appeared for <hi>Us,</hi> as against the old professed <hi>Malignants</hi> and <hi>Royalists</hi> all along in <hi>England;</hi> against the pretended <hi>Covenanters</hi> the last year from and in <hi>Scotland;</hi> so now of late most <hi>seasonably,</hi> and even <hi>mira<g ref="char:EOLhyphen"/>culously</hi> in <hi>Ireland,</hi> against both <hi>Scots,</hi> Renegado <hi>English,</hi> and <hi>Irish</hi> for<g ref="char:EOLhyphen"/>merly Commanded by <hi>Taaff, Preston, Clanrickard, Inchiquin,</hi> and now united and grown into a numerous Army under the <hi>Apostate Ormond,</hi> amounting in the whole, at their own account, to Nineteen thousand men. Now when by the Revolt of <hi>Inchiquin,</hi> all <hi>Munster</hi> was theirs; and by the force of <hi>Clanrickard,</hi> all <hi>Connaught,</hi> by the defection of the <hi>Scots,</hi> and treachery of the <hi>English</hi> deserting their Trust, all <hi>Ulster</hi> was lost, except <hi>Derry;</hi> and <hi>Lempster,</hi> even to <hi>Dublin.</hi> When all the <hi>English</hi> Interest in <hi>Ireland</hi> was reduced, and shut up in those two Towns, and the latter straightly besieged by so <hi>potent</hi> a force, whereby the Enemy was arrived to such a <hi>Confidence,</hi> as that the Lord <hi>Ormond</hi> began to be solicitous, and full of trouble to himself, what to do with our Men, when they should be in his power <hi>(whereof he made no doubt)</hi> inclining (as he said) to send them to the <hi>Barbadoes,</hi> and our other Plantations, if sufficient shipping could be gained; and the Lord <hi>Taaff,</hi> to ease him of that care, suggested (as an easier expedient) the throwing them into the <hi>Sea</hi> (such are the Mercies of the Wicked;) <hi>Then,</hi> when they onely staid but for the coming up of their additional forces, to effect all this the more securely, <hi>then</hi> the Lord look'd down from <hi>Heaven, the habi<g ref="char:EOLhyphen"/>tation of his Holiness,</hi> and His Glory, and <hi>defeated</hi> them; <hi>Then</hi> He sent forth <hi>his wrath, and consumed them as stubble,</hi> or <hi>as chaff before the wind.</hi> And thus hath <hi>He</hi> begun to avenge his <hi>Israel</hi> there, and visit for the <hi>Blood</hi> of his people <hi>shed</hi> in that Kingdom, <hi>with a rage reaching up to Heaven,</hi> and therein given his Servants <hi>here</hi> cause with triumphant <hi>joy</hi> to say, <hi>Who is like unto thee, O Lord, among the gods? Who is like thee, glorious in Holiness, fearful in Praises, doing wonders?</hi>
+            </p>
+            <p>The particulars of which <hi>wonderful</hi> Mercy now given, are more fully and clearly certified in several <hi>Expresses</hi> from Lieutenant General <hi>Jones,</hi> the principal and most honorable Instrument in the Hand of <hi>God</hi> for this great Deliverance and Success, summ'd up into the ensuing <hi>Narrative.</hi>
+            </p>
+            <p>SInce <hi>Ormonds</hi> first setting himself before <hi>Dublin,</hi> (where he continued from the twentieth of June, to the second instant) little was done against this City; He aiming
+<pb n="453" facs="tcp:119917:3"/>first at the gaining the principal Out-Garrisons, as <hi>Drog<g ref="char:EOLhyphen"/>hedah, Dundalk</hi> and <hi>Trym,</hi> the last being taken the one and twentieth past.</p>
+            <p>On the two and twentieth, Col: <hi>Venables</hi> landed with his Foot; the five and twentieth, Colonel <hi>Reynolds</hi> with his Horse; the six and twentieth, Colonel <hi>Moor,</hi> and Colonel <hi>Hunks</hi> with their Foot, and Captain <hi>Norwood,</hi> and Major <hi>Eliot</hi> with their Troops, whereby this Party became in some sort considerable. Wherewithal, and by the report of the Lord <hi>Lieutenant</hi>'s following soon after with the whole Army, the Enemy being awakened, thereupon re<g ref="char:EOLhyphen"/>solved to set themselves wholly to this work; And in the first place, they did cut off that <hi>Water,</hi> whereby our Mills were driven, and thereby was our condition something straightned; but principally upon the second instant, they cast up a Work at <hi>Baggarath,</hi> within a quarter of a mile of this City, whither having drawn about fifteen hundred Foot, besides Horse, they thence purposed to work them<g ref="char:EOLhyphen"/>selves forward in their approaches, and to take from us our forrage for our Horse, and grass for our Cattle, with<g ref="char:EOLhyphen"/>out which this place could not long have subsisted; and they built Forts towards the Sea, to deprive us of the land<g ref="char:EOLhyphen"/>ing-place, for our coming Supplies, and this was the onely safe landing left for our Forces in the Dominion of <hi>Ireland.</hi>
+            </p>
+            <p>The <hi>Enemies</hi> Horse and Foot appearing at <hi>Baggarath,</hi> the second of this instant, about nine in the morning, Lieute<g ref="char:EOLhyphen"/>nant General <hi>Iones</hi> drew out twelve hundred Horse, and four thousand Foot; intending then onely to beat up the Enemies quarters, and not to engage with so small a par<g ref="char:EOLhyphen"/>ty, their Camp being at <hi>Rathmines,</hi> within less then a mile of <hi>Baggarath;</hi> but <hi>God</hi> blessing our men with success, and by the coming on of parties on all sides, it came at length to a general engagement, and after more then two hours hot dispute, the Enemy was <hi>totally</hi> routed: <hi>Ormond</hi> hardly escaped with eight horse, and few had escaped of their whole numbers, but that there was cause to provide a<g ref="char:EOLhyphen"/>gainst
+<pb n="454" facs="tcp:119917:4"/>a body of a thousand fresh Horse of the Enemies, commanded by S<seg rend="sup">r</seg>
+               <hi>Thomas Armstrong,</hi> which coming up fresh, and in our mens disorder, might have endangered all; but they in stead of advancing (which our men expe<g ref="char:EOLhyphen"/>cted) fled toward <hi>Drogheda.</hi>
+            </p>
+            <p>Our loss of men was <hi>little,</hi> there not being <hi>twenty</hi> mis<g ref="char:EOLhyphen"/>sing, but many wounded.</p>
+            <p>Of the Enemy were slain about four thousand, some of considerable quality, and two thousand five hundred and seventeen taken prisoners, amongst whom Colonel <hi>Chri<g ref="char:EOLhyphen"/>stopher Plunket,</hi> the Earl of <hi>Fingale,</hi> and Colonel <hi>Richard But<g ref="char:EOLhyphen"/>ler,</hi> the Earl of <hi>Ormonds</hi> brother, were Principals, and with them sixteen Colonels and Field-Officers, forty one Ca<g ref="char:EOLhyphen"/>ptains, Lieutenants fifty eight, Ensigns forty two, of Cor<g ref="char:EOLhyphen"/>nets, Quatermasters, and other persons of inferior Offi<g ref="char:EOLhyphen"/>ces and quality, great numbers; most of them of <hi>Inchi<g ref="char:EOLhyphen"/>quins</hi> English, and our run-aways. To which is to be ad<g ref="char:EOLhyphen"/>ded M<seg rend="sup">r.</seg>
+               <hi>Iohn Herbert</hi> (servant to the pretended King) who about six days before landed his Masters houshold-stuff in <hi>Galloway.</hi> Our men took in the place three <hi>Demi-canons,</hi> one large square Gun, carrying a Ball of twelve pound, one Sacre-Drake, and one Morter-piece, all these Brass. And our men also gained about two hundred <hi>Oxen</hi> for the <hi>Trayn,</hi> besides carriages. The next day our men seized a <hi>Brass Canon,</hi> within five miles of the Camp, which Camp was richly furnished with great store of Velvets, Silks, Scarlets and other clothing of value, Wines, Grocery, with some convenient quantity of <hi>Money:</hi> all which they left be<g ref="char:EOLhyphen"/>hinde them, and the neighboring villages plentifully stored with <hi>cattle</hi> of all sorts, fit for food.</p>
+            <p>There are also taken of <hi>Train-carriages</hi> and <hi>waggons,</hi> be<g ref="char:EOLhyphen"/>longing to the Enemies Army, at the least three hundred, Tents five hundred, Cows three hundred, and Irish Nags, termed by them Garroones, eight hundred.</p>
+            <p>It was for our advantage that <hi>Inchiquin</hi> had some days before gone towards <hi>Munster,</hi> yet intending to return shortly. As also that our men so engaged before <hi>Clan<g ref="char:EOLhyphen"/>rickards</hi>
+               <pb n="455" facs="tcp:119917:4"/>coming up with his three thousand men out of <hi>Con<g ref="char:EOLhyphen"/>naught,</hi> and seven thousand <hi>Vlster Scots</hi> also upon advancing.</p>
+            <p>All this was done but by a <hi>handful</hi> of men, and not the <hi>third</hi> part of our Foot coming in to the principal part of the Work; yet by <hi>them</hi> the <hi>Lord</hi> defeated an Enemy, by them<g ref="char:EOLhyphen"/>selves now acknowledged Nineteen thousand, and they having a fresh <hi>reserve</hi> of Horse, little short of our numbers.</p>
+            <p>The same night <hi>Rathfurnans</hi> (S<seg rend="sup">r</seg>
+               <hi>Adam Loftus</hi> his house) lately taken by the Enemy, was regained, and the Soldiers in number about Seven score, entertained into the Parlia<g ref="char:EOLhyphen"/>ments service, professing their <hi>abhorrence</hi> to accompany any longer with those <hi>bloody</hi> Irish <hi>Rebels,</hi> and that they were <hi>forced</hi> to do what they did, and that hereafter they would <hi>live</hi> and <hi>dye</hi> with us. Nor did their fear leave them till they had also quitted <hi>Mannoroth,</hi> (the Earl of <hi>Kildares</hi> house, and one of the strongest pieces in <hi>Ireland</hi> the <hi>Naas, Donahe<g ref="char:EOLhyphen"/>dy,</hi> and <hi>Richardstown,</hi> each twelve miles at the least distant from <hi>Dublin▪</hi>
+            </p>
+            <p>
+               <hi>Never</hi> was any duty in <hi>Ireland</hi> like <hi>this,</hi> to the <hi>confusion</hi> of the Irish, and to the raising up the spirits of the poor En<g ref="char:EOLhyphen"/>glish, and to the restoring of the English Interest; Which, from their <hi>first</hi> footing in <hi>Ireland,</hi> was never in so <hi>low</hi> a con<g ref="char:EOLhyphen"/>dition, as at that very instant: there not being any one considerable <hi>landing</hi> place left <hi>us,</hi> but <hi>this</hi> alone, and <hi>this</hi> also almost <hi>gone.</hi>
+            </p>
+            <div type="decree">
+               <p>
+                  <hi>UPon consideration of all which, the Par<g ref="char:EOLhyphen"/>liament for manifestation of their high and extraordinay sence of so signal and season<g ref="char:EOLhyphen"/>able a Mercy, Have thought it fit, and their duty to set apart a time for Publique and Solemn Thanksgiving, to be rendred to the Lord the Author of that Mercy: And they do therefore Enact and Ordain, That</hi> Wednesday <hi>the Twenty ninth of this instant</hi> August, <hi>be observed and kept as a day of publique and holy Rejoycing and Thanksgiving to the Lord, in all y<seg rend="sup">t</seg> Churches and
+<pb n="456" facs="tcp:119917:5"/>Chappels, and places of Divine Worship within this Commonwealth of</hi> England, <hi>Daminion of</hi> Wales, <hi>and Town of</hi> Berwick <hi>upon</hi> Tweed; <hi>and that the Ministers of the respective parishes and places aforesaid, be and hereby they are required and enjoyned to give notice on the Lords day next preceding the said Twenty ninth of</hi> August, <hi>of the day so to be observed, to the end the people of their several Congregations may the more generally and diligently attend the publique Ex<g ref="char:EOLhyphen"/>ercises of Gods Worship and Service there to be dispensed upon this occasion; at which time, that the people may be more particularly and fully in<g ref="char:EOLhyphen"/>formed of this great Deliverance and Success, the said Ministers are hereby required to publish and read this present Act and Declaration: And for the better observation of the day, The Par<g ref="char:EOLhyphen"/>liament doth hereby inhibit and forbid the h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ing or use of all Fairs, Markets, and servile works of mens ordinary Callings upon that day: And all Majors, Sheriffs, Iustices of Peace, Constables, and other Officers, be and are hereby enjoyned to take especial care of the due observance of the said day of Thanksgiving accordingly.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="license">
+            <head>
+               <hi>Die Jovis,</hi> 16 <hi>Augusti,</hi> 1649.</head>
+            <p>ORdered by the Commons in Parliament assembled, That this Act, Declaration and Narrative, be forthwith printed and pub<g ref="char:EOLhyphen"/>lished.</p>
+            <closer>
+               <signed>Hen: Scobell; Cleric. Parliament.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
